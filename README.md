@@ -5,7 +5,7 @@ developer = {
     "profession": "Developer",
     "languages": ["Python"],
     "databases": {
-        "sql": ["MySQL"]
+        "sql": ["PostgreSQL"]
     },
     "contact": {
         "email": "thiagogasparottorodrigues@hotmail.com"
