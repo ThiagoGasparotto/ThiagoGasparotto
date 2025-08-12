@@ -1,8 +1,8 @@
-Hello! I'm Thiago Gasparotto! 
+```python
+"""Hello! I'm Thiago Gasparotto! 
     ✨ Writing clean codes since the beginning of 2025. 
     🎓 Currently studying Systems Analysis and Development. 
-    🎯 On a mission to become a Data Analyst
-```python
+    🎯 On a mission to become a Data Analyst"""
 developer = {
     "name": "Thiago Gasparotto",
     "profession": "Developer",
