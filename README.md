@@ -12,5 +12,6 @@ developer = {
     },
     "contact": {
         "email": "thiagogasparottorodrigues@hotmail.com"
+        "linkedin": "linkedin.com/in/thiagogasparotto"
     }
 }
