@@ -11,7 +11,7 @@ developer = {
         "sql": ["PostgreSQL"]
     },
     "contact": {
-        "email": "thiagogasparottorodrigues@hotmail.com"
+        "email": "thiagogasparottorodrigues@hotmail.com",
         "linkedin": "www.linkedin.com/in/thiagogasparotto"
     }
 }
