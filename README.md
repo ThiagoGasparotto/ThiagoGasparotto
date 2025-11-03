@@ -6,9 +6,9 @@
 developer = {
     "name": "Thiago Gasparotto",
     "profession": "Developer",
-    "languages": ["Python"],
+    "languages": ["Python", "C"],
     "databases": {
-        "sql": ["PostgreSQL"]
+        "sql": ["PostgreSQL", "SQLite"]
     },
     "contact": {
         "email": "thiagogasparottorodrigues@hotmail.com",
